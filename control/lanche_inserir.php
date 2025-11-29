@@ -20,7 +20,7 @@ if ($retorno == true)
     } 
 
 else{
-    echo "<h1>Não foi cadastrado!</h1>";
+    echo "<h1>Não foi cadastrado, veriifique os valores informados!</h1>";
 }
 
 
